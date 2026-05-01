@@ -27,12 +27,13 @@ Insurance companies need to track premium collections vs. actual payouts to mana
 ## 📊 Dashboard Pages & Features
 
 | Page | Description |
-|---|---|
-| **KPI Overview** | Total Premiums Paid, Payable, Amount vs. Underwriting Expenses |
-| **State-wise Analysis** | Geographic performance breakdown |
-| **Policy Analysis** | Policy-type contribution to revenue |
-| **Agent Performance** | Individual sales agent contribution |
-| **Trend Analysis** | Yearly Growth Rate & ROI trends |
+| --- | --- |
+| **Summary** | KPI cards — 7,299 policies, ₹39,096.58M total premium amount |
+| **Insurance Overview** | Premiums Paid vs Payable, ROI trend by year and agent |
+| **Investment vs Maturity** | Premium Amount vs Maturity Amount growth (2015–2024) |
+| **Annual Premium vs Protection Value** | Coverage amount vs Annualized ROI analysis |
+| **Premium Analysis (5–20 Years)** | Tenure-based premium and payout breakdown |
+| **Sales Hierarchy Performance** | Zonal → Regional → Agent drill-through matrix with RLS |
 
 ---
 
@@ -61,12 +62,12 @@ Insurance companies need to track premium collections vs. actual payouts to mana
 
 ## 📸 Dashboard Screenshots
 
-![Dashboard Overview](screenshots/Summary.png)
-![Dashboard Overview](screenshots/Insurance_Overview.png)
-![Dashboard Overview](screenshots/Investment_Amount_vs_Maturity_Amount.png)
-![Dashboard Overview](screenshots/Annual_Premium_vs_Protection_Value.png)
-![Dashboard Overview](screenshots/Premium_Analysis_(5_to_20_Years).png)
-![Dashboard Overview](screenshots/Sales_Hierarchy_Performance.png)
+[![KPI Summary](screenshots/Summary.png)]
+[![Insurance Overview](screenshots/Insurance_Overview.png)]
+[![Investment vs Maturity](screenshots/Investment_Amount_vs_Maturity_Amount.png)]
+[![Annual Premium vs Protection](screenshots/Annual_Premium_vs_Protection_Value.png)]
+[![Premium Analysis](screenshots/Premium_Analysis_(5_to_20_Years).png)]
+[![Sales Hierarchy](screenshots/Sales_Hierarchy_Performance.png)]
 
 ---
 

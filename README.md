@@ -62,17 +62,17 @@ Insurance companies need to track premium collections vs. actual payouts to mana
 
 ## 📸 Dashboard Screenshots
 
-[![KPI Summary](https://github.com/naveenupward/Insurance-Premium-and-Payout-KPI-Dashboard/raw/main/screenshots/Summary.png)](...)
+[![KPI Summary](https://github.com/naveenupward/Insurance-Premium-and-Payout-KPI-Dashboard/raw/main/screenshots/kpi-summary.png)](...)
 
-[![Insurance Overview](https://github.com/naveenupward/Insurance-Premium-and-Payout-KPI-Dashboard/raw/main/screenshots/Insurance_Overview.png)](...)
+[![Insurance Overview](https://github.com/naveenupward/Insurance-Premium-and-Payout-KPI-Dashboard/raw/main/screenshots/insurance-overview.png)](...)
 
-[![Investment vs Maturity](https://github.com/naveenupward/Insurance-Premium-and-Payout-KPI-Dashboard/raw/main/screenshots/Investment_Amount_vs_Maturity_Amount.png)](...)
+[![Investment vs Maturity](https://github.com/naveenupward/Insurance-Premium-and-Payout-KPI-Dashboard/raw/main/screenshots/investment-vs-maturity.png)](...)
 
-[![Annual Premium vs Protection](https://github.com/naveenupward/Insurance-Premium-and-Payout-KPI-Dashboard/raw/main/screenshots/Annual_Premium_vs_Protection_Value.png)](...)
+[![Annual Premium vs Protection](https://github.com/naveenupward/Insurance-Premium-and-Payout-KPI-Dashboard/raw/main/screenshots/annual-premium-vs-protection.png)](...)
 
-[![Premium Analysis 5-20 Years](https://github.com/naveenupward/Insurance-Premium-and-Payout-KPI-Dashboard/raw/main/screenshots/Premium_Analysis_(5_to_20_Years).png)](...)
+[![Premium Analysis 5-20 Years](https://github.com/naveenupward/Insurance-Premium-and-Payout-KPI-Dashboard/raw/main/screenshots/premium-analysis.png)](...)
 
-[![Sales Hierarchy Performance](https://github.com/naveenupward/Insurance-Premium-and-Payout-KPI-Dashboard/raw/main/screenshots/Sales_Hierarchy_Performance.png)](...)
+[![Sales Hierarchy Performance](https://github.com/naveenupward/Insurance-Premium-and-Payout-KPI-Dashboard/raw/main/screenshots/sales-hierarchy.png)](...)
 
 ---
 

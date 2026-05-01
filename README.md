@@ -62,12 +62,17 @@ Insurance companies need to track premium collections vs. actual payouts to mana
 
 ## 📸 Dashboard Screenshots
 
-[![KPI Summary](screenshots/Summary.png)]
-[![Insurance Overview](screenshots/Insurance_Overview.png)]
-[![Investment vs Maturity](screenshots/Investment_Amount_vs_Maturity_Amount.png)]
-[![Annual Premium vs Protection](screenshots/Annual_Premium_vs_Protection_Value.png)]
-[![Premium Analysis](screenshots/Premium_Analysis_(5_to_20_Years).png)]
-[![Sales Hierarchy](screenshots/Sales_Hierarchy_Performance.png)]
+[![KPI Summary](https://github.com/naveenupward/Insurance-Premium-and-Payout-KPI-Dashboard/raw/main/screenshots/Summary.png)](...)
+
+[![Insurance Overview](https://github.com/naveenupward/Insurance-Premium-and-Payout-KPI-Dashboard/raw/main/screenshots/Insurance_Overview.png)](...)
+
+[![Investment vs Maturity](https://github.com/naveenupward/Insurance-Premium-and-Payout-KPI-Dashboard/raw/main/screenshots/Investment_Amount_vs_Maturity_Amount.png)](...)
+
+[![Annual Premium vs Protection](https://github.com/naveenupward/Insurance-Premium-and-Payout-KPI-Dashboard/raw/main/screenshots/Annual_Premium_vs_Protection_Value.png)](...)
+
+[![Premium Analysis 5-20 Years](https://github.com/naveenupward/Insurance-Premium-and-Payout-KPI-Dashboard/raw/main/screenshots/Premium_Analysis_(5_to_20_Years).png)](...)
+
+[![Sales Hierarchy Performance](https://github.com/naveenupward/Insurance-Premium-and-Payout-KPI-Dashboard/raw/main/screenshots/Sales_Hierarchy_Performance.png)](...)
 
 ---
 

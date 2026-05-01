@@ -7,6 +7,15 @@
 
 ---
 
+## 📊 Skills Demonstrated
+- Data Cleaning & Transformation  
+- Data Modeling & Relationships  
+- KPI Development  
+- Dashboard Design & Visualization  
+- Business Intelligence Thinking
+
+---
+
 ## 📌 Project Overview
 
 An end-to-end **Power BI Finance Dashboard** built to analyze Insurance Premium collections, Payout trends, and Agent performance across multiple states and policy types.
